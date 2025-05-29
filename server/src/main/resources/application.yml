@@ -1,0 +1,11 @@
+
+server.port: 9100
+server.servlet.context-path: /api
+
+BASE_LOCATION: D:\aliyun_workspace\java_travel
+DB_NAME: java_travel
+ 
+
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
