@@ -86,11 +86,7 @@ npm run dev
 
 
 
-### 参考论文
-[点击进入](doc/java_travel.docx)
 
 
-### 付费咨询
 
-微信：Lengqin1024
 
